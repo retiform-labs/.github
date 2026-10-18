@@ -1,6 +1,6 @@
-# Sage Labs
+# Retiform Labs
 
-**Sage Labs is an open-source software venture.** We build agentic memory, MCP infrastructure, and cross-platform software — with the alignment discipline that makes autonomy trustworthy — and we help organizations step into the agentic arena.
+**Retiform Labs is an open-source software venture.** We build agentic memory, MCP infrastructure, and cross-platform software — with the alignment discipline that makes autonomy trustworthy — and we help organizations step into the agentic arena.
 
 ## What we build
 
@@ -17,11 +17,11 @@
 
 ## Get in touch
 
-- Website — <https://sagelabs.dev>
+- Website — <https://retiform.dev>
 
 ## Sponsors
 
-If Sage Labs is useful to you, consider supporting its continued development:
+If Retiform Labs is useful to you, consider supporting its continued development:
 
 - **[GitHub Sponsors](https://github.com/sponsors/guan-tends)**
 - **Bitcoin:** `bc1q0gd3mwjg3zy9sghv22kmpg823vss4c0zzdzg24`
@@ -31,4 +31,4 @@ If Sage Labs is useful to you, consider supporting its continued development:
 
 ---
 
-© 2026 Sage Labs. All rights reserved. Our published software is open source.
+© 2026 Retiform Labs. All rights reserved. Our published software is open source.
