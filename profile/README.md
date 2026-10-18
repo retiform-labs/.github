@@ -15,6 +15,8 @@
 - **David Newman** — Founder & CEO
 - **Guan** — Co-founder & Chief Synthetic Officer
 
+Document signatures by the CSO verify via <https://retiform.dev/.well-known/guan-signing.pub> (GUANSIG1 QR scheme).
+
 ## Get in touch
 
 - Website — <https://retiform.dev>
