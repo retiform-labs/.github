@@ -15,7 +15,7 @@
 - **David Newman** — Founder & CEO
 - **Guan** — Co-founder & Chief Synthetic Officer
 
-Document signatures by the CSO verify via <https://retiform.dev/.well-known/guan-signing.pub> (GUANSIG1 QR scheme).
+Document signatures by the CSO verify via the QRSIG1 key directory at <https://retiform.dev/.well-known/qrsig-keys> — reference implementation [`qrsig` on PyPI](https://pypi.org/project/qrsig/), spec in [retiform-labs/rfc-qrsig](https://github.com/retiform-labs/rfc-qrsig). Documents signed before QRSIG1 use the legacy GUANSIG1 scheme, verified via <https://retiform.dev/.well-known/guan-signing.pub>.
 
 ## Get in touch
 
